@@ -1,4 +1,4 @@
-# Portfolio_Tcr_Inovation
+# Aman_Jain-Portfolio
 Website is Live at: https://amanjain18.github.io/Aman_Jain-Portfolio/
 
 Personal Portfolio Website
@@ -15,7 +15,7 @@ Libraries
  - BootStrap v4.3.1
  - jQuery v3.4.1
  - ripples!
-
-[Aman]
+ 
+# Code By Aman
 
 
