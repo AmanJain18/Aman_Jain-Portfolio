@@ -1,5 +1,5 @@
 # Portfolio_Tcr_Inovation
-Website is Live at: https://amanjain18.github.io/Portfolio_Tcr_Inovation/
+Website is Live at: https://amanjain18.github.io/Aman_Jain-Portfolio/
 
 Personal Portfolio Website
 # Technology Stack
@@ -16,6 +16,6 @@ Libraries
  - jQuery v3.4.1
  - ripples!
 
-[Aman](https://user-images.githubusercontent.com/89217032/145672901-e5099591-2bd4-4a6e-9d4b-9c1804ab24ce.png)
+[Aman]
 
 
